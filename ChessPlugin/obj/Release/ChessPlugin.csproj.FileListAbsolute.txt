@@ -1,0 +1,11 @@
+F:\TestSever\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\ChessPlugin\bin\Release\ChessPlugin.dll
+F:\TestSever\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\ChessPlugin\bin\Release\ChessPlugin.pdb
+F:\TestSever\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\ChessPlugin\bin\Release\PhotonHivePlugin.dll
+F:\TestSever\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\deploy\Plugins\ChessPlugin\bin\ChessPlugin.dll
+F:\TestSever\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\deploy\Plugins\ChessPlugin\bin\ChessPlugin.pdb
+F:\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Plugins\ChessPlugin\bin\Release\ChessPlugin.dll
+F:\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Plugins\ChessPlugin\bin\Release\ChessPlugin.pdb
+F:\TestSever\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\ChessPlugin\obj\Release\ChessPlugin.csproj.CoreCompileInputs.cache
+F:\TestSever\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\ChessPlugin\obj\Release\ChessPlugin.csproj.CopyComplete
+F:\TestSever\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\ChessPlugin\obj\Release\ChessPlugin.dll
+F:\TestSever\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\ChessPlugin\obj\Release\ChessPlugin.pdb
